@@ -1,0 +1,40 @@
+﻿{
+  "metadata": {
+    "songName": "Example Song",
+    "artist": "Example Artist",
+    "bpm": 120.0,
+    "songLength": 180.0
+  },
+  "buttonOne": [
+    0.5,
+    1.2,
+    2.4,
+    3.6,
+    4.8
+  ],
+  "buttonTwo": [
+    0.8,
+    1.6,
+    2.8,
+    4.0
+  ],
+  "buttonThree": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0
+  ],
+  "buttonFour": [
+    1.5,
+    3.0,
+    4.5
+  ],
+  "buttonFive": [
+    0.6,
+    1.8,
+    3.2,
+    4.6
+  ]
+}
+
